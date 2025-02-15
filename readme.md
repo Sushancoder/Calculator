@@ -1,25 +1,4 @@
 <body>
- <title>Calculator README</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    h1 {
-      color: #00698f;
-    }
-    h2 {
-      color: #008000;
-    }
-    ul {
-      list-style: none;
-      padding: 0;
-      margin: 0;
-    }
-    li {
-      margin-bottom: 10px;
-    }
-  </style>
   <h1>Calculator README</h1>
   <p>This is a simple calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.</p>
   <h2>Features</h2>

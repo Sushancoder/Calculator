@@ -1,3 +1,4 @@
+<body>
  <title>Calculator README</title>
   <style>
     body {
@@ -19,7 +20,6 @@
       margin-bottom: 10px;
     }
   </style>
-<body>
   <h1>Calculator README</h1>
   <p>This is a simple calculator built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic operations like addition, subtraction, multiplication, and division.</p>
   <h2>Features</h2>
